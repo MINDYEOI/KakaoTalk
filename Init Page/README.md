@@ -1,1 +1,1 @@
-It contains KakaoTalk Sign in and Sign up view.
+It contains KakaoTalk Sign in and Sign up views.
